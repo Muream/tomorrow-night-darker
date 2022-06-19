@@ -1,0 +1,21 @@
+{
+  "name": "tomorrow-night-darker",
+  "displayName": "Tomorrow Night Darker",
+  "description": "Darker version of tomorrow Night",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tomorrow Night Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tomorrow Night Darker-color-theme.json"
+      }
+    ]
+  }
+}
